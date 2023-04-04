@@ -33,4 +33,6 @@ Maintenant, DoctorUbuntu est en couleur  :)
 l execution ne semble pas fonctionner sur les disques externes mais il semblerait que ce ne soit qu une question d autorisation de l utilisateur. 
 
 
+![capture d  ecran ](https://github.com/web2v/DoctorUbuntu/blob/17deacb4f079c415e621e4dc9e402766d2e82d5f/doctorUbuntuv11.png)
+
 
