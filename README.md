@@ -1,4 +1,4 @@
-# DoctorUbuntu
+# DoctorUbuntu {V11}
 Prédiction des commandes bash dans votre console Linux (Xterm)
 générez des scripts bash pour linux debian Ubuntu directement dans la console avec l API de GPT (davincode 002 ) 
 
@@ -7,6 +7,7 @@ générez des scripts bash pour linux debian Ubuntu directement dans la console 
 Produisez une clée API sur openai.com
 
 Installation : 
+autorisez install.sh comme un programme
 Lancez le script d installation pour creer un alias local accessible depuis tout dossier ainsi que l environnement virtuel 
 
 le script d installation : 
