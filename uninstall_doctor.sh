@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Supprimer le fichier 'doc' de /usr/local/bin
+# Supprimer le fichier 'doc' de /usr/local/bin  REMPLACEZ "doc" par le nom que vous avez donné à votre script de lancement
 if [[ -f "/usr/local/bin/doc" ]]; then
     sudo rm -f /usr/local/bin/doc
     echo "Le script 'doc' a été supprimé de /usr/local/bin."
