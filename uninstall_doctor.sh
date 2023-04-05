@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Supprimer le fichier 'doc' de /usr/local/bin  REMPLACEZ "doc" par le nom que vous avez donné à votre script de lancement
+# Supprimer le fichier 'doc' de /usr/local/bin  
+#REMPLACEZ "doc" par le nom que vous avez donné à votre script de lancement, créé pendant l install et qui sert a apeller le programme doctorubuntu
 if [[ -f "/usr/local/bin/doc" ]]; then
     sudo rm -f /usr/local/bin/doc
     echo "Le script 'doc' a été supprimé de /usr/local/bin."
